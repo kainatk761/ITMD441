@@ -6,3 +6,9 @@ body {
     padding: 0;
 }
 
+header {
+    background-color: #ff66b2;
+    text-align: center;
+    padding: 20px;
+}
+
