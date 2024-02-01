@@ -46,3 +46,12 @@ h4 {
     margin-top: 10px;
 }
 
+/* Add some additional styling for links */
+a {
+    color: #ff66b2;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
